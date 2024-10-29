@@ -1,0 +1,11 @@
+{
+    "python.defaultInterpreterPath": "/opt/anaconda3/envs/tf-arm/bin/python",
+    "python.languageServer": "Pylance",
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.useLibraryCodeForTypes": true,
+    "python.terminal.activateEnvironment": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.flake8Enabled": false
+}
